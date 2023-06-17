@@ -15,3 +15,13 @@ Algorytm CNN wykorzystuje zbiór treningowy, który składa się z oznaczonych o
 Przygotowanie danych to nie tylko pobranie obrazów, ale także przeprowadzenie szeregu działań mających na celu zapewnienie jakości i spójności zbioru. Wymaga to czasu, precyzji i uwagi w celu odpowiedniego wyselekcjonowania obrazów, odrzucenia tych nieodpowiednich lub niejednoznacznych, oraz zapewnienia odpowiedniego rozmiaru i formatu dla dalszej analizy.
 
 Dodatkowo, przygotowanie danych obejmuje również zastosowanie różnych algorytmów transformacji, takich jak skalowanie, przycinanie, normalizacja kolorów czy augmentacja danych, aby **zapewnić bardziej zróżnicowany zestaw danych treningowych**. Te operacje pomagają w zwiększeniu różnorodności danych i umożliwiają modelowi nauczenie się ogólnych wzorców, niezależnie od szczegółów dotyczących konkretnych obrazów.
+
+## Wymagania
+* Python 3.x
+* TensorFlow 2.x (lub wyższy)
+* Keras 2.x (lub wyższy)
+* Numpy
+* Matplotlib
+* OpenCV
+* PIL
+
