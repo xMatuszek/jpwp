@@ -24,5 +24,5 @@ Dodatkowo, przygotowanie danych obejmuje również zastosowanie różnych algory
 * Matplotlib
 * OpenCV
 
-**Natomiast w celu realizacji zadań posłużymy się platformą Google Colab (Jupyter notebook)
+**Natomiast w celu realizacji zadań posłużymy się platformą Google Colab (Jupyter notebook)**
 
