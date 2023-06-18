@@ -23,5 +23,6 @@ Dodatkowo, przygotowanie danych obejmuje również zastosowanie różnych algory
 * Numpy
 * Matplotlib
 * OpenCV
-* PIL
+
+**Natomiast w celu realizacji zadań posłużymy się platformą Google Colab (Jupyter notebook)
 
