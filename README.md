@@ -1,4 +1,5 @@
 # Klasyfikacja dojrzałości owoców
+https://colab.research.google.com/drive/19UG3sjVRt3Uda_AfvRZqvVDILDLpolpz?usp=sharing
 
 ## Cel
 Celem niniejszego projektu jest opracowanie systemu do **klasyfikacji dojrzałości owoców** przy wykorzystaniu technik uczenia maszynowego.
